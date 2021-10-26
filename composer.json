@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "10253\\Car\\": "src/",
+            "10253\\test\\": "src/",
             "test\\test1\\": "src/test/test1",
             "test\\test2\\": "src/test/test2",
             "test\\test3\\": "src/test/test3",
