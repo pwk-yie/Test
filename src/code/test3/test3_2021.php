@@ -1,5 +1,5 @@
 <?php
-namespace test\test3;
+namespace code\test3;
 class test3_2021{
     
     public static function info(){

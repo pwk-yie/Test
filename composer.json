@@ -6,10 +6,10 @@
     "autoload": {
         "psr-4": {
             "10253\\test\\": "src/",
-            "test1\\": "src/test1",
-            "test2\\": "src/test2",
-            "test3\\": "src/test3",
-            "test4\\": "src/test4"
+            "code\\test1\\": "src/code/test1",
+            "code\\test2\\": "src/code/test2",
+            "code\\test3\\": "src/code/test3",
+            "code\\test4\\": "src/code/test4"
         }
     },
     "authors": [

@@ -1,9 +1,9 @@
 <?php
 require 'vendor/autoload.php';
-use test\test1;
-use test\test2; 
-use test\test3;
-use test\test4;
+use code\test1;
+use code\test2; 
+use code\test3;
+use code\test4;
 
 
 echo test1\test1_2021::info();
